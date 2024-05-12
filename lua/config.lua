@@ -1,8 +1,9 @@
 Config = {}
 
 -- use keybinds.
-Config.UseKeybinds = true
+Config.UseKeybinds = false
 Config.Settings = "N"
+Config.Map = "M"
 
 -- show prop when pause menu is open.
 Config.UseProp = false -- you need scully_emotemenu.
